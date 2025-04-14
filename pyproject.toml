@@ -9,6 +9,9 @@ readme = "README.md"
 python = ">=3.11,<3.14"
 flask = "^3.1.0"
 rembg = "^2.0.65"
+pillow = "^11.2.1"
+flask-dropzone = "^2.0.0"
+onnxruntime = "^1.21.0"
 
 
 [build-system]
